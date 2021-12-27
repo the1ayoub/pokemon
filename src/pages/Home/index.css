@@ -1,0 +1,42 @@
+.home-body {
+    flex: 1;
+    padding: 30px;
+}
+.pokemon-table {
+    display: flex;
+    flex: 1;
+    height: 90%;
+    width: 40%;
+    padding: 10px;
+    margin-top: 10px;
+    flex-direction: column;
+}
+.table-header {
+    font-weight: 700;
+}
+.table-body {
+    display: flex;
+    flex: 1;
+    background-color: #ffffff;
+    flex-direction: column;
+}
+
+.table-row {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #3f4040;
+    padding: 12px;
+}
+
+.table-actions {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.table-link {
+    color: #3f4040;
+    margin: 2px;
+    padding-left: 10px;
+}
