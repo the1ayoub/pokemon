@@ -16,7 +16,7 @@ function useFetch({ url }) {
       .catch((error) => {
         setResponse((prev => ({ ...prev, loading: false, error })));
       });
-  }, []);
+  }, [url]);
   return response;
 }
 
