@@ -1,6 +1,6 @@
 {
-  "homepage": "https://the1ayoub.github.io/pokemons",
-  "name": "pokemons",
+  "homepage": "https://the1ayoub.github.io/pokemon",
+  "name": "pokemon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
