@@ -1,6 +1,6 @@
 {
-  "homepage": "http://the1ayoub.github.io/pokemons",
-  "name": "poki",
+  "homepage": "https://the1ayoub.github.io/pokemons",
+  "name": "pokemons",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
